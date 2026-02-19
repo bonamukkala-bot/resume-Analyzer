@@ -1,9 +1,5 @@
 import os
 import requests
-from dotenv import load_dotenv
-
-load_dotenv()
-
 API_KEY = "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"
 print("Loaded API Key:", API_KEY)
 
